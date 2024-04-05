@@ -1,0 +1,20 @@
+
+h1{
+    color: aqua;
+}
+body {
+    position: relative;
+    margin-left : auto;
+    padding : 50px;
+    border: 2px solid black;
+  
+}
+td{
+    text-align: center;
+    
+    display: flexbox;
+    height: 60px;
+    width : 60px;
+    border: 2px solid black;
+}
+
